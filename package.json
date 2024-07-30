@@ -1,0 +1,14 @@
+{
+  "name": "playwright-poc1",
+  "version": "1.0.0",
+  "description": "A proof-of-concept playwright test poject - to be pushed into GitHub to simulate CI/CD pipeline in Azure. -wpx 7/0/2024",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Wenlong Peter Xu",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.45.3",
+    "@types/node": "^22.0.0"
+  }
+}
